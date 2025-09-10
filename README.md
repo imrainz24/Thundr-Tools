@@ -1,5 +1,3 @@
-# Thundr-Tools
-Free Chrome extension for Thundr with spam filtering, timestamps, and auto-reconnect.
 # Thundr Tools ⚡
 
 Thundr Tools Free is a Chrome/Edge extension that enhances the Thundr chat experience.  
